@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="courses/CourseServlet.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/CODES/Eclipse Projects/JAR files/jakarta.servlet.jsp.jstl-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/CODES/Eclipse Projects/JAR files/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/CODES/Eclipse Projects/JAR files/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="E:/CODES/Eclipse Projects/JAR files/standard-9.1.9.jar"/>
+	<classpathentry kind="lib" path="E:/CODES/Eclipse Projects/JAR files/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/CODES/Eclipse Projects/JAR files/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 10.1/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jakarta.ee/specifications/servlet/6.0/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
